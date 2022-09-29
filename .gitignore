@@ -1,0 +1,5 @@
+node_modules
+
+.env
+
+DB_URL=mongodb+srv://MentorMe:MentorMe2022@cluster0.1vl1dzz.mongodb.net/mentormeAPI?retryWrites=true&w=majority
